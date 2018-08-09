@@ -3,5 +3,5 @@ Just another repository.  This is using the hello world tutorial.
 This is a little something about myself for this github tutorial.
 I have writtem nothing about myself so far.
 I will write nothing again.  And I will write nothing, again. And, again.
-I am using this repository to practice github and git.
+I am using this repository to practice github and git. Again.
 
